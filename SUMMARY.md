@@ -5,4 +5,5 @@
 * [Provisioners](provisioners.md)
 * [Modules](modules.md)
 * [State Management](state-management.md)
+* [State Backend](state-backend.md)
 * [Reference](https://github.com/girish979/MyNotes/tree/master/Terraform/terraform-training)
